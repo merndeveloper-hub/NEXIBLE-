@@ -9,6 +9,9 @@ LINK: https://www.nexible.world/Home
 
 
 
-file:///home/owais/Videos/Screencasts/Screencast%20from%2011-04-2024%2020:13:23.webm
+
+
+[Screencast from 11-04-2024 20:14:54.webm](https://github.com/merndeveloper-hub/NEXIBLE-/assets/67875982/2c5eddf9-6dae-49b7-9f8b-b18a9ae4731a)
+
 
 
